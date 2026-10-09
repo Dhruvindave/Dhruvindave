@@ -5,7 +5,7 @@
 MSc Data Science student.
 
 Started with backend, databases, DevOps and AWS.
-Now learning ML, building AI systems, and preparing for GATE DA.
+Now learning ML, building AI systems.
 
 I like understanding **why things work** before trying to make them work better.
 
